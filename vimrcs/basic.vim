@@ -146,7 +146,7 @@ set background=dark
 if has("gui_running")
     set guioptions-=T
     set guioptions-=e
-    set t_Co=256
+    set t_Co=8
     set guitablabel=%M\ %t
 endif
 
